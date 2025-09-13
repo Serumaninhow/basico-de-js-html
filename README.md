@@ -32,7 +32,7 @@ Além dessa forma, pode-se apenas declarar uma tag `<script></script>` e um arqu
 
 Exemplo de uso em **script.js**.
 
-```
+```js
 alert('Bom dia! Boa tarde! Boa noite!');
 let nome = prompt('Me diga qual é o seu nome?');
 alert('É um prazer te conhecer, ' + nome);

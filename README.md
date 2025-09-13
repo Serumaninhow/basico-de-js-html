@@ -4,7 +4,7 @@ A JavaScript é uma linguagem de programação de alto nível, interpretada, cri
 
 Para executar um código JavaScript, pode-se criar um **script.js**, e executá-lo em um **index.html**, da seguinte maneira:
 
-```
+```html
 <meta charset="UTF-8">
 <script src="script.js"> </script>
 ```
